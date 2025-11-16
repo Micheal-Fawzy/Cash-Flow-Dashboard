@@ -1,0 +1,5 @@
+{
+  "name": "Mike Cash Flow Dashboard",
+  "description": "An intuitive web application for daily and monthly cash flow management. It allows users to track income and expenses, provides automatic monthly summaries, and features a unique 10-day period breakdown for granular analysis within each month, helping business owners and accountants make informed financial decisions.",
+  "requestFramePermissions": []
+}
